@@ -470,6 +470,6 @@
         Preloader Init
      ===============================================*/
   $(window).on("load", function () {
-    $("#site-preloader").delay(2000).fadeOut(500);
+    $("#site-preloader").delay(250).fadeOut(250);
   });
 })(jQuery); // End jQuery
