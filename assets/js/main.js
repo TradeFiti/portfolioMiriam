@@ -469,7 +469,7 @@
   /* ==================================================
         Preloader Init
      ===============================================*/
-  $(window).on("load", function () {
-    $("#site-preloader").delay(250).fadeOut(250);
-  });
+  // $(window).on("load", function () {
+  //   $("#site-preloader").delay(250).fadeOut(250);
+  // });
 })(jQuery); // End jQuery
