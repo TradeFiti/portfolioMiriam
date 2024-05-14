@@ -24,7 +24,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         // Recipients
         $mail->setFrom($_POST['email'], $_POST['name']);
-        $mail->addAddress('kiokoleon@gmail.com', 'Leon');   // Add a recipient
+        $mail->addAddress('somalanguages@gmail.com', 'Tutor');   // Add a recipient
         $mail->addReplyTo($_POST['email'], $_POST['name']);
 
         // Content
