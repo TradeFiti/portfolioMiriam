@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 		$mail->Host       = 'smtp.gmail.com';                       // SMTP server
 		$mail->SMTPAuth   = true;                                   // Enable SMTP authentication
 		$mail->Username   = 'somalanguages@gmail.com';                 // SMTP username (your Gmail email address)
-		$mail->Password   = 'P@ssw0rd2022';                  // SMTP password
+		$mail->Password   = 'vqua fijk robr warz';                  // SMTP password
 		$mail->SMTPSecure = 'tls';                                  // Enable TLS encryption
 		$mail->Port       = 587;                                    // TCP port to connect to
 
