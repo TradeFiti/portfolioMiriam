@@ -8,16 +8,16 @@
            (
               {
                number: 10,
-               easing: 'ease', 
+               easing: 'ease',
               },
               2000
            );
-           
+
            $('#hc').animateNumber
            (
               {
-               number: 95,
-               easing: 'ease', 
+               number: 10,
+               easing: 'ease',
               },
               2000
            );
@@ -25,7 +25,7 @@
            (
               {
                number: 100,
-               easing: 'ease', 
+               easing: 'ease',
               },
               2000
            );
@@ -34,7 +34,7 @@
            (
               {
                number: 25,
-               easing: 'ease', 
+               easing: 'ease',
               },
               2000
            );
@@ -42,7 +42,7 @@
            (
               {
                number: 95,
-               easing: 'ease', 
+               easing: 'ease',
               },
               2000
            );
@@ -50,13 +50,13 @@
            (
               {
                number: 78,
-               easing: 'ease', 
+               easing: 'ease',
               },
               2000
            );
 
         }
-        
+
 
     },{offset: 'bottom-in-view' })
 
